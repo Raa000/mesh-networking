@@ -1,4 +1,3 @@
-# brew install libdnet
 # wget http://libdnet.googlecode.com/files/libdnet-1.12.tgz
 # tar xfz libdnet-1.12.tgz
 # cd libdnet-1.12.tgz
